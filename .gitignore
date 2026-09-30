@@ -1,0 +1,6 @@
+# Environment variables with passwords & encryption keys
+.env
+
+# Local data & temp files
+*.log
+.DS_Store
